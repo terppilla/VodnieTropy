@@ -1,0 +1,12 @@
+.first-faq-wrapper h5 {
+font-weight: 600;
+}
+.first-faq-items {
+    display: block;
+    list-style-type: disc;
+}
+
+.first-faq-item {
+    margin-bottom: 10px;
+    list-style-type: decimal;
+}
